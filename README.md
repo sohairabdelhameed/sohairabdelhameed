@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ASP.Net Web API**
 
 - 💬 Ask me about **ASP.NET CORE**
 
